@@ -1,4 +1,4 @@
-# TP04 - Structures sélectives
+# TP05 - Structures itératives
 **STS 1CIEL** - TP sur l'utilisation des différentes structures itératives vues en cours : `for`, `while`, `do while`.
 
 Ce repository est un projet CLion dans lequel vous trouverez un certain nombre de fichiers `.cpp` qui vont vous permettre de coder chaque exercice demandé. Une fois terminé il suffira de faire un commit, puis un push vers GitHub afin de rendre votre travail.
